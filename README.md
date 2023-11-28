@@ -8,4 +8,4 @@ Based on the available dataset, we found that we can use RFM analytics for devel
 *   Categorize customers based on their behavior, creating distinct segments through RFM Analytics.
 *   Identify key defining characteristics within each customer segment.
 
-By accomplishing these objectives, the Olist business team can effectively formulate marketing and advertising strategies tailored to the specific types or characteristics of each cluster we have established.
+By accomplishing these objectives, the business team can effectively formulate marketing and advertising strategies tailored to the specific types or characteristics of each cluster we have established.
